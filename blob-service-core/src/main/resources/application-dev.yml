@@ -1,0 +1,5 @@
+pastelpunk:
+  blobStorageConfiguration:
+    sasToken: ?sv=2019-10-10&ss=b&srt=sco&sp=rwdlacx&se=2021-06-20T20:23:00Z&st=2020-06-20T12:23:00Z&spr=https&sig=ZiHpuJwwWZ9lL8Y9LRWZ05Gmy%2BM%2Fu%2BYKBm6PJzakIF4%3D
+    endpoint: https://gedisonblob.blob.core.windows.net/
+
